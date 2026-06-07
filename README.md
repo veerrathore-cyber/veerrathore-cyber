@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Veer Pratap Singh Rathore 👋
 
-<!--
-**veerrathore-cyber/veerrathore-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Cybersecurity Enthusiast
+- Ethical Hacking Learner
+- Aspiring Penetration Tester
+- Learning Python & SQL
+- TryHackMe Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Penetration Testing
+- Web Application Security
+- Python
+- SQL
+- Network Security
+
+## Tools & Technologies
+
+- Linux
+- Nmap
+- Wireshark
+- Python
+- SQL
+- Networking
+
+## Certifications
+
+- Ethical Hacking Bootcamp (WsCube Tech)
+- Roadmap To Become A Cyber Security Professional
+
+## Goals
+
+- Complete TryHackMe Learning Paths
+- Build Cybersecurity Projects
+- Learn Web Application Security
+- Secure a Cybersecurity Internship
