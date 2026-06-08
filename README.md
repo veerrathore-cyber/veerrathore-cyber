@@ -32,15 +32,26 @@ My current focus areas include:
 
 My goal is to gain real-world cybersecurity experience, contribute to security projects, and secure an internship in the cybersecurity domain while continuously improving my technical skills.
 
-## About Me
+---
 
-- Cybersecurity Enthusiast
-- Ethical Hacking Learner
-- Aspiring Penetration Tester
-- Learning Python & SQL
-- TryHackMe Learner
+<details>
+<summary>🚀 More About Me!</summary>
 
-## Currently Learning
+- **Name:** Veer Pratap  
+- **From:** India 🇮🇳  
+- **Role:** Cybersecurity Enthusiast | Ethical Hacking | Penetration Testing | Python | SQL
+
+**Specialties:**
+- 🔐 Cybersecurity Enthusiast
+- 🛡️ Ethical Hacking Learner
+- 🎯 Aspiring Penetration Tester
+- 🐍 Learning Python
+- 🗄️ Learning SQL
+- 🚩 TryHackMe Learner
+</details>
+
+
+## 📚 Currently Learning
 
 - Penetration Testing
 - Web Application Security
@@ -48,21 +59,45 @@ My goal is to gain real-world cybersecurity experience, contribute to security p
 - SQL
 - Network Security
 
-## Tools & Technologies
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-rathore-cybersecurity) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/op_veer_107/) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/op_veer_107) 
 
-- Linux
-- Nmap
-- Wireshark
-- Python
-- SQL
-- Networking
+# 🛠 Knowledge & Skills
+![Html5](https://img.shields.io/badge/HTML5-5D4B6C?style=plastic&logo=html5&color=000000)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20Pro-FF6F00?style=plastic&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=plastic&logo=metasploit&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=plastic&logo=sqlite&logoColor=black)
+![Hydra](https://img.shields.io/badge/Hydra-2E8B57?style=plastic&logo=gnometerminal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00FF00?style=plastic&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
+![VScode](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=VScode&color=blue)
 
-## Certifications
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=veerrathore-cyber&theme=tokyonight" />
+</p>
+
+
+## 🏆 Certifications
 
 - Ethical Hacking Bootcamp (WsCube Tech)
 - Roadmap To Become A Cyber Security Professional
 
-## Goals
+## 🎯 Goals
 
 - Complete TryHackMe Learning Paths
 - Build Cybersecurity Projects
