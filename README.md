@@ -85,12 +85,6 @@ My goal is to gain real-world cybersecurity experience, contribute to security p
 ![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
 ![VScode](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=VScode&color=blue)
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=veerrathore-cyber&theme=tokyonight" />
-</p>
-
 
 ## 🏆 Certifications
 
